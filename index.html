@@ -5,7 +5,7 @@ title: Home
 
 <h1>Useful Things</h1>
 <ul>
-  {% for sec in site.sections | sort: "id" %}
+  {% for sec in site.sections %}
   <li>
     <h2>{{ sec.title }}</a></h2>
     {{ sec }}

@@ -1,3 +1,4 @@
 collections:
   sections:
     output: true
+    sort_by: id
