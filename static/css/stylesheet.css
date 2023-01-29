@@ -32,9 +32,17 @@ img {
     margin-right: auto;
 }
 #content {
-    margin: 0 100px;
-    padding: 50px 300px;
+    padding: 3% 20%;
 }
+
+
+
+@media screen and (max-device-width: 480px) {
+    #content {
+        padding: 50px 50px;
+    }
+}
+
 
 #content a:link {
     color:rgb(169, 169, 179);

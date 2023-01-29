@@ -4,8 +4,7 @@ id: 0
 ---
 
 > _don't stress yourself out too much_
-
-- [LaundryView](http://www.laundryview.com/lvs.php?s=264)
+- [Teach Yourself CS](http://www.laundryview.com/lvs.php?s=264)
 - [Common Outside Course Options for Informatics Students](http://homepages.inf.ed.ac.uk/imurray2/pt/outside_courses.html)
 - [Year 1 Google Drive](/drive?next=0B4SUSkTXjliXdkQxNGRYN0hfSGs)
 - mailing list archives - [ug1-students](https://lists.inf.ed.ac.uk/mailman/private/ug1-students/)
