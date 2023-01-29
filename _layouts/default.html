@@ -2,17 +2,15 @@
 <html>
     {% include head.html %}
 
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-
   <body id="top">
+    <img id="img" src="{{ site.baseurl }}/static/assets/cat.png">
+
     <a href="{{ site.baseurl }}/"  >
         <div id="title" >BEST CS @ Richmond</div>
     </a>
-    <img id="img" src="{{ site.baseurl }}/static/assets/cat.png">
-
-    {{ content }}
+    
+    <div id="content">
+        {{ content }}
+    </div>
 
 </html>

@@ -1,10 +1,12 @@
 html, button, input, select, textarea {
     font-family: sans-serif
 }
+
 body{
     background-color: rgb(34, 34, 34);
     color: rgb(169, 169, 179);
 }
+
 body a:link{
     text-decoration: none;
 }
@@ -16,11 +18,29 @@ body a:link{
     height: 29px;
     text-align: center;
     transform: translateX(35px);
+    font-weight: lighter;
 }
 #title:hover {
     opacity: 0.5;
+
 }
 
 img {
     width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+#content {
+    margin: 0 100px;
+    padding: 50px 300px;
+}
+
+#content a:link {
+    color:rgb(169, 169, 179);
+    text-decoration: underline;
+}
+#content a:hover {
+    color: lightyellow;
+}
+
