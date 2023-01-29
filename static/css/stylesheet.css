@@ -40,11 +40,11 @@ img {
     color:rgb(169, 169, 179);
     text-decoration: underline;
 }
+#content a:visited{
+    color:rgb(169, 169, 179);
+}
 #content a:hover {
     color: lightyellow;
 }
-#content a:visited{
-    color:rgb(169, 169, 179);
 
-}
 
