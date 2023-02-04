@@ -3,7 +3,7 @@ title: General
 id: 0
 ---
 
-> _don't stress yourself out too much_
+##### don't stress yourself too much
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [ACM UR Website](https://acmurichmond.github.io/)
 - Board Game Night, Tuesday 6pm @ Jepson First Floor
