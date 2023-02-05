@@ -1,6 +1,6 @@
 ---
 title: Courses
-id: 1
+id: 2
 ---
 
 - [Book about neural networks](http://neuralnetworksanddeeplearning.com/chap1.html) - recommended by the lecturer
