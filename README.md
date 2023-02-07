@@ -8,7 +8,7 @@ CS resources for UofR students
 
 ## Philosophy
 
-1. **_Trust by default._ No pull requests, no "approvals", just contribute!**
+1. **_Trust by default._ just contribute!**
 2. **_Maintain history._**
   - Why? Over time we accumulate a lot of knowledge and resources. We shouldn't lose it.
 3. **_Share ownership._**
