@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* Only for debugging */
+div{
+    /* border: 2px solid gold; */
+}
+
 html, button, input, select, textarea {
-    font-family: sans-serif
+    font-family: ROBOTO;
+    /* font-family: sans-serif; */
 }
 
 body{
-    background-color: rgb(34, 34, 34);
+    /* background-color: rgb(34, 34, 34); */
+    background-color: rgb(36, 43, 60);
     color: rgb(169, 169, 179);
 
 }
@@ -26,9 +35,12 @@ img {
     letter-spacing: 28.5px;
     height: 29px;
     text-align: center;
-    transform: translateX(35px);
+    /* transform: translateX(35px); */
+    padding-left: 35px;
     font-weight: lighter;
+    /* border: 2px solid gold; */
 }
+
 #title:hover {
     opacity: 0.5;
 }
@@ -53,7 +65,7 @@ img {
        margin-right:20px;
        width:100%;
        word-wrap: break-word;
-    }    
+    }
 }
 
 @media screen and (max-device-width: 500px) {
@@ -62,7 +74,7 @@ img {
     }
     #content {
         margin-top: 30px;
-    }    
+    }
 }
 
 
