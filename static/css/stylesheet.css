@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+/* :root{
+    --main_color: rgb(139, 0, 0);
+    --BG_color: rgb(26, 37, 61);
+    --secondary_color: rgb(169, 169, 179);
+
+} */
+
 /* Only for debugging */
 div{
     /* border: 2px solid gold; */
@@ -88,7 +95,8 @@ img {
     color:rgb(169, 169, 179);
 }
 #content a:hover {
-    color: lightyellow;
+    /* color: lightyellow; */
+    color: rgb(139, 0, 0);
 }
 
 
