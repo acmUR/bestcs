@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-/* :root{
+:root{
     --main_color: rgb(139, 0, 0);
     --BG_color: rgb(26, 37, 61);
     --secondary_color: rgb(169, 169, 179);
 
-} */
+}
 
 /* Only for debugging */
 div{
@@ -19,8 +19,8 @@ html, button, input, select, textarea {
 
 body{
     /* background-color: rgb(34, 34, 34); */
-    background-color: rgb(26, 37, 61);
-    color: rgb(169, 169, 179);
+    background-color: var(--BG_color);
+    color: var(--secondary_color);
 
 
 }
@@ -40,7 +40,7 @@ img {
 #title {
     font-size: 28px;
     /* color: rgb(169, 169, 179); */
-    color: rgb(139, 0, 0);
+    color: var(--main_color);
     letter-spacing: 28.5px;
     height: 29px;
     text-align: center;
@@ -88,15 +88,15 @@ img {
 
 
 #content a:link {
-    color:rgb(169, 169, 179);
+    color: var(--secondary_color);
     text-decoration: underline;
 }
 #content a:visited{
-    color:rgb(169, 169, 179);
+    color: var(--secondary_color);
 }
 #content a:hover {
     /* color: lightyellow; */
-    color: rgb(139, 0, 0);
+    color: var(--main_color);
 }
 
 
