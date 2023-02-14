@@ -6,7 +6,7 @@ title: Home
 {% assign sections = site.sections | sort: "idx" %}
 <ul>
   {% for sec in sections %}
-  <li>
+  <li id="sec">
     <h3>{{ sec.title }}</a></h3>
     {{ sec }}
   </li>

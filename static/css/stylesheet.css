@@ -21,9 +21,8 @@ body{
     /* background-color: rgb(34, 34, 34); */
     background-color: var(--BG_color);
     color: var(--secondary_color);
-
-
 }
+
 
 body a:link{
     text-decoration: none;
@@ -61,12 +60,19 @@ img {
     align-items: center;
 }
 
-#content {
+#content{
     word-wrap: break-word;
     margin-top: 20px;
     width:800px;
     line-height: 1.25em;
     font-size: 17px;
+}
+
+
+/*! Section  */
+
+#sec{
+    /* border: 2px solid gold; */
 }
 
 @media (max-width:800px){
