@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
+{% assign sections = site.sections | sort: "idx" %}
 <ul>
-  {% for sec in site.sections %}
+  {% for sec in sections %}
   <li>
     <h3>{{ sec.title }}</a></h3>
     {{ sec }}
