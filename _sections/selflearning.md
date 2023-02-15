@@ -1,6 +1,6 @@
 ---
 title: Self-Learning
-id: 4
+idx: 4
 ---
 
 - [Teach Yourself CS](https://teachyourselfcs.com/)
