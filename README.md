@@ -2,9 +2,10 @@
 CS resources for UofR students
 ## Guidelines for contributing
 - In order to contribute you will need GitHub account.
-- If you would like to make a major change, or a change to the overall visual design,  you are free to do so, no pull request needed at this point
-- Most of the content is in the `_sections` directory, so [click here](https://github.com/acmUR/bestcs/tree/main/_sections) to view the list of sections to edit.
-- If you want to add a new a new section, just create a new markdown file, then put the id (check out how others are done)
+- You can either submit a pull request or send your github username to acm.urichmond@gmail.com with your richmond email
+- Most of the content is in the `_sections` directory, so [click here](https://github.com/acmUR/bestcs/tree/main/_sections) and edit the markdown!
+- If you want to add a new a new section, just create a new markdown file, then put the title & id (check out how others are done)
+- If you would like to make a major change, or a change to the overall visual design, The CSS is [here](https://github.com/acmUR/bestcs/tree/main/static/css) and the html is [here](https://github.com/acmUR/bestcs/tree/main/_layouts)
 
 ## Philosophy
 
