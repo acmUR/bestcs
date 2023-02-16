@@ -1,7 +1,7 @@
 # bestcs
 CS resources for UofR students
 ## Guidelines for contributing
-- In order to contribute you will need GitHub account.
+- In order to contribute you will need a GitHub account.
 - You can either submit a pull request or send your github username to acm.urichmond@gmail.com with your richmond email
 - Most of the content is in the `_sections` directory, so [click here](https://github.com/acmUR/bestcs/tree/main/_sections) and edit the markdown!
 - If you want to add a new a new section, just create a new markdown file, then put the title & id (check out how others are done)
