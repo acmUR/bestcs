@@ -16,4 +16,4 @@ Search
 Interview Prep
 
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) - Famous 75 leetcode questions to startOff - [study plan version](https://www.techinterviewhandbook.org/grind75)
-- System Design Interview - [Design Twitter](https://www.youtube.com/watch?v=o5n85GRKuzk&t=527s), [Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0&t=1028s)
+- System Design Interview - [Design Twitter](https://www.youtube.com/watch?v=o5n85GRKuzk&t=527s), [Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0&t=1028s)
