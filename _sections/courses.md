@@ -9,8 +9,8 @@ CS 222 Discrete Structures
 
 CS 301 Computer Organization
 
-- [Hex to MIPS Converter](https://www.dcode.fr/binary-mips) - Convert hex to MIPS instructions
-- [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/)
+- [Binary to Text/Number](https://www.dcode.fr/binary-mips) - Tool to make binary conversions
+- [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/) - Instruction to Hex, Hex to MIPS
 
 CS 240 Software Systems Development
 
