@@ -1,21 +1,21 @@
 ---
 title: Courses
-idx: 2
+idx: 4
 ---
 
 CS 222 Discrete Structures
 
 - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf) - LaTeX symbols
 
-CS 301 Computer Organization
-
-- [Binary to Text/Number](https://www.dcode.fr/binary-mips) - Tool to make binary conversions
-- [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/) - Instruction to Hex, Hex to MIPS
-
 CS 240 Software Systems Development
 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - Git commands
 - [Remote SSH](https://code.visualstudio.com/learn/develop-cloud/ssh-lab-machines) - Connect to Linux cluster directly from VSCode, no need to scp files (literal game changer)
+
+CS 301 Computer Organization
+
+- [Binary to Text/Number](https://www.dcode.fr/binary-mips) - Tool to make binary conversions
+- [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/) - Instruction to Hex, Hex to MIPS
 
 CS 327 Machine Learning
 
