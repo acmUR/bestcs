@@ -1,6 +1,6 @@
 ---
 title: Courses
-idx: 4
+idx: 2
 ---
 
 CS 222 Discrete Structures
