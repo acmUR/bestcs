@@ -120,3 +120,17 @@ img {
 }
 
 
+/* Code for scroll bar */
+
+body::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: var(--BG_color);
+}
+
+body::-webkit-scrollbar-thumb {
+    background: var(--main_color);
+    border-radius: 0.1rem 0rem 0rem 0.1rem;
+}
