@@ -41,6 +41,7 @@ body a:link{
     background-color: transparent;
     text-decoration: none;
     border: none;
+    background: none;
 }
 
 img {
