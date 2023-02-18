@@ -37,8 +37,15 @@ body a:link{
     align-items: center;
 }
 
+#theme_switch{
+    background-color: transparent;
+    text-decoration: none;
+    border: none;
+}
+
 img {
     width: 200px;
+    background: transparent;
 }
 
 #title {
