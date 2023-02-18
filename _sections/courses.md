@@ -14,7 +14,6 @@ CS 240 Software Systems Development
 
 CS 301 Computer Organization
 
-- [Binary to Text/Number](https://www.dcode.fr/binary-mips) - Tool to make binary conversions
 - [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/) - Instruction to Hex, Hex to MIPS
 
 CS 327 Machine Learning
