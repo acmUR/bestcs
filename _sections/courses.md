@@ -16,6 +16,9 @@ CS 301 Computer Organization
 
 - [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/) - Instruction to Hex, Hex to MIPS
 
+CS 315 Algoirthms
+- [Dijstra's Algorithm in 2 Minutes](https://www.youtube.com/watch?v=_lHSawdgXpI)
+
 CS 327 Machine Learning
 
 - [Supervised ML - Dr. Andrew](https://www.coursera.org/learn/machine-learning) - Well-Recognized ML courses for beginners
