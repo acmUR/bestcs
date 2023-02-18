@@ -3,6 +3,7 @@
 :root{
     --main_color: rgb(207, 207, 207);
     --BG_color: rgb(34, 34, 34);
+    /* --BG_color: rgb(20, 29, 48); */
     --secondary_color: rgb(169, 169, 179);
 
 }
