@@ -2,9 +2,11 @@
 
 :root{
     --main_color: rgb(207, 207, 207);
-    /* --main_color: rgb(210, 0, 0); */
-    --BG_color: rgb(34, 34, 34);
+    /* --main_color: rgb(162, 52, 52); */
+
+    --BG_color: rgb(38, 36, 39);
     /* --BG_color: rgb(20, 29, 48); */
+
     --secondary_color: rgb(169, 169, 179);
 
 }
@@ -20,8 +22,16 @@ html, button, input, select, textarea {
 }
 
 body{
-    /* background-color: rgb(34, 34, 34); */
+    /* background-color: rgb(53, 20, 57); */
     background-color: var(--BG_color);
+
+    /*! Testing this */
+    background-image:
+        radial-gradient(rgb(162, 52, 52) 0.6px, transparent 0.6px),
+        radial-gradient(rgb(162, 52, 52) 0.6px, transparent 0.6px);
+    background-size: 30px 30px;
+    background-position: 0 0, 14px 14px;
+
     color: var(--secondary_color);
     list-style-type: none;
 }
@@ -70,6 +80,7 @@ img {
 #content{
     word-wrap: break-word;
     margin-top: 20px;
+    margin-bottom: 20px;
     width: 960px;
     line-height: 1.25em;
     font-size: 17px;
@@ -80,13 +91,22 @@ img {
 #sec{
     /* border: 2px solid gold; */
     line-height: 1.4;
+    list-style: none;
+    background-color: rgba(65, 65, 65, 0.294);
+    /* background-color: var(--BG_color); */
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75);
 }
 
 #sec-title{
     border-bottom: 1px solid #999;
-    padding-bottom: 3px;
-    margin-bottom: 10px;
-    margin-top: 36px;
+    color: var(--main_color);
+    /* padding-bottom: 3px;
+    margin-bottom: 10px; */
+    /* margin-top: 36px; */
+    margin-top: 0px;
 }
 
 @media (max-width:960px){
