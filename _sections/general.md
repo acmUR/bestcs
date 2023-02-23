@@ -3,7 +3,7 @@ title: General
 idx: 1
 ---
 
-##### don't stress yourself too much
+##### Don't stress yourself too much
 
 - [ACM UR Website](https://acmurichmond.github.io/)
 - [Github Repository of this Website](https://github.com/acmUR/bestcs)
