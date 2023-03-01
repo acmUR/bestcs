@@ -17,7 +17,9 @@ CS 301 Computer Organization
 - [MIPS Converter](https://www.eg.bucknell.edu/~csci320/mips_web/) - Instruction to Hex, Hex to MIPS
 
 CS 315 Algoirthms
+
 - [Dijstra's Algorithm in 2 Minutes](https://www.youtube.com/watch?v=_lHSawdgXpI)
+- [Essential Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Essential%20Algorithms_%20A%20Practical%20Approach%20to%20Computer%20Algorithms%20%5BStephens%202013-08-12%5D.pdf)
 
 CS 327 Machine Learning
 
