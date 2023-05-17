@@ -26,11 +26,11 @@ body{
     background-color: var(--BG_color);
 
     /*! Testing this */
-    background-image:
+    /* background-image:
         radial-gradient(rgb(162, 52, 52) 0.6px, transparent 0.6px),
         radial-gradient(rgb(162, 52, 52) 0.6px, transparent 0.6px);
     background-size: 30px 30px;
-    background-position: 0 0, 14px 14px;
+    background-position: 0 0, 14px 14px; */
 
     color: var(--secondary_color);
     list-style-type: none;

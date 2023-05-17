@@ -6,6 +6,8 @@ CS resources for UofR students
 - Most of the content is in the `_sections` directory, so [click here](https://github.com/acmUR/bestcs/tree/main/_sections) and edit the markdown!
 - If you want to add a new a new section, just create a new markdown file, then put the title & id (check out how others are done)
 - If you would like to make a major change, or a change to the overall visual design, The CSS is [here](https://github.com/acmUR/bestcs/tree/main/static/css) and the html is [here](https://github.com/acmUR/bestcs/tree/main/_layouts)
+- For running cite locally, run this command - bundle exec jekyll serve --livereload
+
 
 ## Philosophy
 
